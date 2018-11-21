@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.homepage                 = 'https://github.com/fnolis'
   s.license                  = 'FREE'
   s.description              = 'A pod wrapping SwiftLint together with my configuration file.'
-  s.source                   = { :git => "https://github.com/fnolis/repo.git", :tag => "R-0.0.3" }
+  s.source                   = { :git => "https://github.com/fnolis/pod.git", :tag => "R-0.0.3" }
 
   s.cocoapods_version        = '>= 1.5.2'
 
