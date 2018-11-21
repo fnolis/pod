@@ -1,12 +1,12 @@
 Pod::Spec.new do |s|
   s.name                     = 'SwiftLintSidekick'
-  s.version                  = '0.0.1'
+  s.version                  = '0.0.3'
   s.summary                  = 'My shared Swiftlint configuration'
   s.authors                  = { 'Ola Rönnerup' => 'ola@ronnerup.se' }
   s.homepage                 = 'https://github.com/fnolis'
   s.license                  = 'FREE'
   s.description              = 'A pod wrapping SwiftLint together with my configuration file.'
-  s.source                   = { :git => "https://github.com/fnolis/repo.git", :tag => "R-0.0.2" }
+  s.source                   = { :git => "https://github.com/fnolis/repo.git", :tag => "R-0.0.3" }
 
   s.cocoapods_version        = '>= 1.5.2'
 
